@@ -36,7 +36,7 @@
 * [help](./help.md)
 * [file](./file.md)
 * [command-cheatsheets](./command-cheatsheets.md)
-* [motion - 移动](./mition.md)
+* [motion - 移动](./motion.md)
 * [search - 查找](./search.md)
 * [register - 寄存器](./register.md)
 * [macro - 宏](./macro.md)
